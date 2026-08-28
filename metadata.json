@@ -1,0 +1,6 @@
+{
+  "name": "Chấm Bài Tự Luận",
+  "description": "Ứng dụng AI hỗ trợ giáo viên chấm điểm và nhận xét bài kiểm tra tự luận của học sinh dựa trên đề bài.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
